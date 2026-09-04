@@ -32,7 +32,7 @@ The dataset was loaded into a Jupyter Notebook using Python and Pandas.
 
 import pandas as pd
 
-df = pd.read_csv("your_dataset.csv")
+df = pd.read_csv("Customer_Behavior_Analysis.csv")
 2. Exploratory Data Analysis (EDA)
 Performed EDA to understand the structure and characteristics of the data.
 Key activities included:
