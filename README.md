@@ -9,7 +9,7 @@ The main objective is to clean, analyze, and transform raw data into meaningful 
 
 The project uses a dataset containing structured business-related data for analysis.
 
-The dataset was:Customer_Behavior_Analysis.csv
+The dataset was:customer_shopping_behavior.csv
 
 Loaded and explored using Python
 Cleaned and prepared for analysis
@@ -32,7 +32,7 @@ The dataset was loaded into a Jupyter Notebook using Python and Pandas.
 
 import pandas as pd
 
-df = pd.read_csv("Customer_Behavior_Analysis.csv")
+df = pd.read_csv("customer_shopping_behavior.csv")
 2. Exploratory Data Analysis (EDA)
 Performed EDA to understand the structure and characteristics of the data.
 Key activities included:
